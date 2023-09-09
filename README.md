@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, it's Yusrin 👩🏻‍💻
 
-<!--
-**yusrinz/yusrinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a first class CS graduate, specialising in Artificial Intelligence from University of Malaya 🏫
+- Previously interned with the MLOps department at the Analytics and AI team at Maxis 💚
+- I love experimenting with data, machine learning algorithms and the maths behind them 👨‍💻
+- I also like building web apps, automating everything and exploring the various applications of AI 🤖
 
-Here are some ideas to get you started:
+### 💻 Languages:
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI/DS Frameworks and Tech:
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+
+### 💾 Databases:
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### 🔧 Cloud and Miscellaneous:
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+
+### 👋 Connect With Me!
+<a href="https://www.linkedin.com/in/yusrin-zulfa-zuber-900b0819b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7EOtKRXQTfqvHBH5jmYtzw%3D%3D
+"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+
+
+🔭 I’m currently working on ...
+
