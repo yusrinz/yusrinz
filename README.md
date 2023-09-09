@@ -1,9 +1,8 @@
 ### Hi, it's Yusrin 👩🏻‍💻
 
-- I'm a first class CS graduate, specialising in Artificial Intelligence from University of Malaya 🏫
-- Previously interned with the MLOps department at the Analytics and AI team at Maxis 💚
-- I love experimenting with data, machine learning algorithms and the maths behind them 👨‍💻
-- I also like building web apps, automating everything and exploring the various applications of AI 🤖
+- I'm a 3rd year CS student specialising in Artificial Intelligence 🏫
+- Currently working on many different projects 🔭
+- I love experimenting with data of different domains and studying problem cases 👨‍💻
 
 ### 💻 Languages:
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
