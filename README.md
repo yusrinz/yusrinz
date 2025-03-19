@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" style="width:100%" > <br><br>
+
 ### Hi, it's Yusrin 👩🏻‍💻
 
 I'm a 3rd year CS student specialising in Artificial Intelligence. My interest lies in computer vision and data analytics.
